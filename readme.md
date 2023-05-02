@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi there! 👋 I'm Rodrigo Navarrete</h1>
-<h3 align="center">A passionate software developer with expertise in MERN (MongoDB, Express.js, React, Node.js) stack.</h3>
+<h3 align="center">A results-driven software developer with expertise in MERN (MongoDB, Express.js, React, Node.js) stack and advanced proficiency in English.</h3>
 
 <!-- Main Section -->
 <p align="center">
@@ -30,16 +30,18 @@
     <a href="https://github.com/ThomasAnderson23">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAnderson23&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThomasAnderson23&show_icons=true&theme=dracula" alt="My GitHub stats" />
+</p>
 </p>
 
 ## How to Reach Me
 
-
 <p align="center">
+  <a href="mailto:renavarr@uc.cl"><img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/RodrigoNavarrete23/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
 
+## English Proficiency
 
-
-
+Due to my previous studies in English Literature and Linguistics at PUC, I am fluent in English and have an advanced level of proficiency, which allows me to effectively communicate and collaborate with clients and team members from diverse backgrounds.
