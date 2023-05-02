@@ -23,14 +23,23 @@
 
 ## My GitHub Stats
 
+<p>
   <a href="https://github.com/ThomasAnderson23">
     <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAnderson23&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+    <a href="https://github.com/ThomasAnderson23">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasAnderson23&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
 
 ## How to Reach Me
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/RodrigoNavarrete23/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
 </p>
+
+
+
 
