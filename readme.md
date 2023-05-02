@@ -41,4 +41,4 @@
 
 ## English Proficiency
 
-Due to my previous studies in English Literature and Linguistics at PUC, I am fluent in English and have an advanced level of proficiency, which allows me to effectively communicate and collaborate with clients and team members from diverse backgrounds.
+Due to my previous studies in English Literature and Linguistics at PUC, I am fluent in English and have an advanced level of proficiency, which allows me to effectively communicate and collaborate with clients and team members from diverse backgrounds. C2 CEFR Level and 110 TOEFL iBt score.
